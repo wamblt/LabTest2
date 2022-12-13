@@ -4,5 +4,10 @@
 }
 
 body{
-    background-image: url("https://www.amateurphotographer.co.uk/wp-content/uploads/2020/09/MAIN-Moonrise-over-Blea-Tarn-and-the-Langdales-scaled.jpg");
+    text-align: center;
+    background-size: 300px;
+    background-repeat: repeat-y;
+    border-radius: 25px 25px 25px 25px;
+    width: 150px;
+    height: 200px;
 }
